@@ -1,6 +1,6 @@
 {
   "license": "MIT",
-  "name": "hopkins/slack-against-humanity",
+  "name": "skumpe/slack-against-humanity",
   "description": "A slack webhook integration that lets your team play cards against humanity",
   "keywords": [
     "laravel",
@@ -25,7 +25,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Hopkins\\SlackAgainstHumanity\\": "src"
+      "skumpe\\SlackAgainstHumanity\\": "src"
     }
   },
   "extra": {
